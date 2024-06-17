@@ -8,7 +8,7 @@
 - I don't like to be improdutive.
 - I'm on the 2nd year of High School in Brazil, which is equal to 11th grade on USA.
 - I like RAP, it's my favorite music genre, but I like trap too.
-- I'm looking for an expansion in my habilities by a colaboration with other devs 
+- I'm looking for an expansion in my habilities by a colaboration with other devs.
 <!---
 TonettiVinicius/TonettiVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
