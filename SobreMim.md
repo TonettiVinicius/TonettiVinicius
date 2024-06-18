@@ -2,6 +2,7 @@ Opa, como vc tá? Meu nome é Vinicius e eu tenho 15 anos, além do fato de que 
 
 Alguns exemplos das matérias que eu tive no primeiro semestre de aulas do curso:
 1- Banco de Dados
+<br>
 2- Redes
 3- Introdução a Computação
 4- Lógica de Programação
