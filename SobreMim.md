@@ -1,6 +1,7 @@
 Opa, como vc tá? Meu nome é Vinicius e eu tenho 15 anos, além do fato de que estou no segundo ano do ensino médio, eu também posso acrescentar que estudo no CEDUP Abílio Paulo, uma escola profissionalizante com Curso Técnico de Informática Integrado, então eu tô aprendendo muita coisa (muito mais que muita gente da minha idade). 
 
 Alguns exemplos das matérias que eu tive no primeiro semestre de aulas do curso:
+<br>
 1- Banco de Dados
 <br>
 2- Redes
