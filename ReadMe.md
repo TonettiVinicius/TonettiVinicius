@@ -1,7 +1,7 @@
 ## Hello World! Vinicius Tonetti(Electric) is here! 🖖🏻⚡
 
 - 👨🏻‍💻📚 Aluno do 2° ano do Ensino Médio com Curso Técnico Integrado em Informática no colégio CEDUP Abílio Paulo, Criciúma-SC/Brasil - Brasil
-- 💻⚡ Perfil destinado à postagem das minhas atividades e projetos das matérias do Curso Técnico em Informática.s.
+- 💻⚡ Perfil destinado à postagem das minhas atividades e projetos das matérias do Curso Técnico em Informática.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonettiVinicius&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TonettiVinicius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
