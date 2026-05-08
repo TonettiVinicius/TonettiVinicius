@@ -1,4 +1,4 @@
-## Hello World! Vinicius Tonetti(Electric) is here! 🖖🏻⚡
+## Hello World! Vinicius Tonetti está aqui!
 
 - Cursando a Graduação de Engenharia de Software na Instituição SATC, Criciúma-SC/Brasil.
 - Formado no Ensino Médio com Curso Técnico Integrado em TI no colégio CEDUP Abílio Paulo, Criciúma-SC/Brasil.
